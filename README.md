@@ -1,5 +1,6 @@
 ### Hi there 👋
-# Estudante de Front-end - EBAC
+
+### Estudante de Front-end - EBAC
 
 👋 *Oi eu sou Farlei Amaral\
 👀 *Estou interessado em Front-end e Back-end\
